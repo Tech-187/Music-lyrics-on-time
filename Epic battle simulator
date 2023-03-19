@@ -1,0 +1,39 @@
+local folder = workspace.Terrain._Game.Folder
+game.Players:Chat("clr")
+repeat task.wait() until not folder:FindFirstChild("Sound")	
+game.Players:Chat("time -")
+game.Players:Chat("fogcolor 0 0 0")
+game.Players:Chat("fogend 500")
+game.Players:Chat("music 1837301451");
+repeat task.wait() until folder:FindFirstChild("Sound") and folder:FindFirstChild("Sound").Playing
+local sound = folder:FindFirstChild("Sound")
+task.spawn(function() 
+if sound.TimePosition == 0 then repeat task.wait() until not sound.TimePosition == 0 end
+if sound.TimePosition ~= 0 then repeat task.wait() until not sound.TimePosition == 0 end
+game.Players:Chat("fix");
+game.Players:Chat("clr");
+end)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Trrrr trrr trrrr");wait(1)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n trrrrrrrrrrrrrrrrrrr");wait(1)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n prewwww                                                                     ");wait(.5)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Duu duu duu duu");wait(.75)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n DUU DUU DUU DU DU DUU");wait(1)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Duu duu duu duu");wait(1)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n trrrrrrrrrrrrrrrrrrr")
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n duu duu doo doo doo");wait(1.75)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Duu duu duu duu");wait(.75)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n DUU DUU DUU DU DU DUU");wait(1)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Duu duu duu duu");wait(1)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n trrrrrrrrrrrrrrrrrrr")
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n duu duu doo doo doo");wait(1.75)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n vrrrrrrrrrrrrrrrrrrrrrrrrrrr                                          ");wait(1.25)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                           vrrrrrrrrrrrrrrrrrrrrrrrrrrr");wait(1.25)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n vrrrrrrrrrrrrrrrrrrrrrrrrrrr");wait(1.25)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n trrr                        ");wait(.09)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n rrr                       ");wait(.09)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  rrr                       ");wait(.09)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n   rrr                       ");wait(.09)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    rrr                       ");wait(.09)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n     rrr                       ");wait(.09)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n      rrr                       ");wait(.09)
+game.Players:Chat("h/ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n       rrr                       ");wait(.09)
